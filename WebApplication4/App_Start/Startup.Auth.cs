@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using WebApplication4.Models;
+using CreateReferralTestHarness.Models;
 
-namespace WebApplication4
+namespace CreateReferralTestHarness
 {
     public partial class Startup
     {

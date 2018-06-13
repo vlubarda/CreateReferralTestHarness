@@ -8,9 +8,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using WebApplication4.Models;
+using CreateReferralTestHarness.Models;
 
-namespace WebApplication4.Controllers
+namespace CreateReferralTestHarness.Controllers
 {
     [Authorize]
     public class AccountController : Controller

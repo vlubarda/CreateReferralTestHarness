@@ -10,9 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using WebApplication4.Models;
+using CreateReferralTestHarness.Models;
 
-namespace WebApplication4
+namespace CreateReferralTestHarness
 {
     public class EmailService : IIdentityMessageService
     {

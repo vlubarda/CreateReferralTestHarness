@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace WebApplication4.Controllers
+namespace CreateReferralTestHarness.Controllers
 {
     public class HomeController : Controller
     {

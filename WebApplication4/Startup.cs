@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(WebApplication4.Startup))]
-namespace WebApplication4
+[assembly: OwinStartupAttribute(typeof(CreateReferralTestHarness.Startup))]
+namespace CreateReferralTestHarness
 {
     public partial class Startup
     {

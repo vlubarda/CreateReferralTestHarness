@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace WebApplication4.Models
+namespace CreateReferralTestHarness.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

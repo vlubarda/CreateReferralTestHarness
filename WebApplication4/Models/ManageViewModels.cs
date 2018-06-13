@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace WebApplication4.Models
+namespace CreateReferralTestHarness.Models
 {
     public class IndexViewModel
     {
